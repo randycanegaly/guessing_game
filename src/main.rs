@@ -2,6 +2,7 @@ use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
 
+//Randy's final version
 fn main() {
     println!("Guess the number!");
 
